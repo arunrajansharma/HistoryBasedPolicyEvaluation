@@ -3,5 +3,6 @@ It contains the implementation of the algorithm given in "Scalable and Secure Co
 
 ![Alt text](FromPaper.png?raw=true "Optional Title")
 
-Members : 1. Arun Rajan https://www.linkedin.com/in/arun-rajan-8a529139/
-          2. Arunesh Pandey https://www.linkedin.com/in/aruneshpa/
+Members :
+1. Arun Rajan https://www.linkedin.com/in/arun-rajan-8a529139/
+2. Arunesh Pandey https://www.linkedin.com/in/aruneshpa/
